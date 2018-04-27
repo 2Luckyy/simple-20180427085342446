@@ -1,0 +1,5 @@
+applications:
+- name: tender-bell
+  memory: 128M
+  host: tender-bell
+  buildpack: staticfile_buildpack
